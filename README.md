@@ -11,9 +11,6 @@
 - 📚 Love blending **technology with creativity**  
 
 ---
-![Made with MySQL](https://img.shields.io/badge/Made%20with-MySQL-blue?logo=mysql)
-![Practice Repo](https://img.shields.io/badge/SQL-Practice-green)
-
 
 
 ## 🛠️ Tech Stack
