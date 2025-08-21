@@ -11,7 +11,9 @@
 - 📚 Love blending **technology with creativity**  
 
 ---
-![Build Status](https://github.com/USERNAME/REPO/actions/workflows/main.yml/badge.svg)
+![Made with MySQL](https://img.shields.io/badge/Made%20with-MySQL-blue?logo=mysql)
+![Practice Repo](https://img.shields.io/badge/SQL-Practice-green)
+
 
 
 ## 🛠️ Tech Stack
