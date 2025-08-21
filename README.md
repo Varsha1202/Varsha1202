@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 Recent graduate from **Savitribai Phule Pune University** with a CGPA of **7.89**   
+- 🎓 Recent graduate from **Savitribai Phule Pune University**   
 - 🌱 Completed **CDAC DAC**  
 - 👩‍💻 Passionate about **Web Development, Java, and C#**  
 - 📚 Love blending **technology with creativity**  
