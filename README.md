@@ -11,6 +11,8 @@
 - 📚 Love blending **technology with creativity**  
 
 ---
+![Build Status](https://github.com/USERNAME/REPO/actions/workflows/main.yml/badge.svg)
+
 
 ## 🛠️ Tech Stack
 **Languages:** Java, C#, C++, JavaScript, SQL  
