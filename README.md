@@ -11,10 +11,15 @@ A backend-first hiring platform focused on transparency, feedback, and structure
 **Highlights**
 
 Modular Spring Boot architecture
+
 JWT authentication with refresh token flow
+
 Role-based access (Admin, Recruiter, Candidate)
+
 REST APIs designed with real production constraints
+
 Clean separation of Controller, Service, and Repository layers
+
 Tech: Java, Spring Boot, Spring Security, JPA, MySQL 
 
 **E-Tour Web Application**
@@ -24,14 +29,18 @@ A B2C tour booking platform developed as part of an academic–industry project.
 **Highlights**
 
 End-to-end web application structure
+
 Focus on backend logic and data handling
+
 Practical exposure to real project workflow
 
 ---
 
 ## 🚀Background
 Graduated from Savitribai Phule Pune University
+
 Completed CDAC (DAC)
+
 Strong foundation in both technical problem-solving and communication 
 
 ---
@@ -47,7 +56,9 @@ Strong foundation in both technical problem-solving and communication
 
 ## 🎯 What I’m Focused On Now
 Strengthening backend system design
+
 Writing production-quality Spring Boot services
+
 Improving database modeling and API design
 
 
