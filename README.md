@@ -19,7 +19,6 @@ Tech: Java, Spring Boot, Spring Security, JPA, MySQL
 
 A B2C tour booking platform developed as part of an academic–industry project.
 **Highlights**
-
 End-to-end web application structure
 Focus on backend logic and data handling
 Practical exposure to real project workflow
