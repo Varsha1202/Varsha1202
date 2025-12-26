@@ -1,14 +1,35 @@
-# Hi there 👋, I'm Varsha 
+# Hello👋, I'm Varsha 
 
-💻 **Web Developer | Literature Enthusiast | Aspiring Software Engineer**  
+💻 **Backend Engineer | Java & Spring Boot | Building Production-Grade APIs**  
+
+---
+## 📌 Featured Projects  
+
+**Talent Pipeline** (Backend – In Progress)
+A backend-first hiring platform focused on transparency, feedback, and structured hiring workflows.
+**Highlights**
+Modular Spring Boot architecture
+JWT authentication with refresh token flow
+Role-based access (Admin, Recruiter, Candidate)
+REST APIs designed with real production constraints
+Clean separation of Controller, Service, and Repository layers
+Tech: Java, Spring Boot, Spring Security, JPA, MySQL 
+
+**E-Tour Web Application**
+
+A B2C tour booking platform developed as part of an academic–industry project.
+**Highlights**
+
+End-to-end web application structure
+Focus on backend logic and data handling
+Practical exposure to real project workflow
 
 ---
 
-## 🚀 About Me  
-- 🎓 Recent graduate from **Savitribai Phule Pune University**   
-- 🌱 Completed **CDAC DAC**  
-- 👩‍💻 Passionate about **Web Development, Java, and C#**  
-- 📚 Love blending **technology with creativity**  
+## 🚀Background
+Graduated from Savitribai Phule Pune University
+Completed CDAC (DAC)
+Strong foundation in both technical problem-solving and communication 
 
 ---
 
@@ -21,12 +42,12 @@
 
 ---
 
-## 📌 Projects  
-- 🌍 **e-Tour Web App** – A B2C tour booking system (Domestic & International tours)  
-- ⚔️ **Fantasy RPG (Java)** – Console-based game showcasing OOP concepts  
- 
+## 🎯 What I’m Focused On Now
+Strengthening backend system design
+Writing production-quality Spring Boot services
+Improving database modeling and API design
 
----
+
 
 ## 📫 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/varsha20/)
