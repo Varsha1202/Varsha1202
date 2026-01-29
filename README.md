@@ -10,9 +10,8 @@ A backend-first hiring platform focused on transparency, feedback, and structure
 
 **Highlights**
 
-Modular Spring Boot architecture
-
-JWT authentication with refresh token flow
+-A **Modular Spring Boot architecture**
+-A **JWT authentication with refresh token flow**
 
 Role-based access (Admin, Recruiter, Candidate)
 
