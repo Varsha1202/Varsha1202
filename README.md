@@ -12,14 +12,11 @@ A backend-first hiring platform focused on transparency, feedback, and structure
 
 -  **Modular Spring Boot architecture**
 -  **JWT authentication with refresh token flow**
-
-Role-based access (Admin, Recruiter, Candidate)
-
-REST APIs designed with real production constraints
-
-Clean separation of Controller, Service, and Repository layers
-
+-  **Role-based access (Admin, Recruiter, Candidate)**
+-  **REST APIs designed with real production constraints**
+-  **Clean separation of Controller, Service, and Repository layers**
 Tech: Java, Spring Boot, Spring Security, JPA, MySQL 
+
 
 **E-Tour Web Application**
 
@@ -27,11 +24,9 @@ A B2C tour booking platform developed as part of an academic–industry project.
 
 **Highlights**
 
-End-to-end web application structure
-
-Focus on backend logic and data handling
-
-Practical exposure to real project workflow
+- End-to-end web application structure
+- Focus on backend logic and data handling
+- Practical exposure to real project workflow
 
 ---
 
